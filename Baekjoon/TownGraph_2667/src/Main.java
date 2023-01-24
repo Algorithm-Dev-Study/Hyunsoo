@@ -1,4 +1,3 @@
-
 /*
 	Link : https://www.acmicpc.net/problem/2667
 	Description : 단지수와 각 단지에 속하는 집의 수를 오름차순으로 정렬하여 출력하라.

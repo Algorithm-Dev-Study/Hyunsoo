@@ -1,6 +1,6 @@
-
 /*
 	Link : https://www.acmicpc.net/problem/1967
+	Description : 입력으로 루트가 있는 트리를 가중치가 있는 간선들로 줄 때, 트리의 지름을 구해서 출력하는 프로그램을 작성
 */
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,5 +1,6 @@
 /*
  Link : https://www.acmicpc.net/problem/4949
+ Description : 어떤 문자열이 주어졌을 때, 괄호들의 균형이 잘 맞춰져 있는지 판단
 */
 import java.io.BufferedReader;
 import java.io.IOException;
