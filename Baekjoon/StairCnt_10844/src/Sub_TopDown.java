@@ -31,7 +31,6 @@ public class Sub_TopDown {
     }
 
     public static void main(String[] args) throws IOException {
-        long startTime = System.currentTimeMillis();
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         N = Integer.parseInt(br.readLine());
 
