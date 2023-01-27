@@ -8,7 +8,7 @@ package StringBomb_9935;
 import java.io.*;
 import java.util.Stack;
 
-public class Sub {
+public class Sub_Stack {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String strText = br.readLine();
@@ -68,6 +68,8 @@ public class Sub {
                 }
                 System.out.println(sb);
             }
+        } else {
+            System.out.println(strText);
         }
     }
 }

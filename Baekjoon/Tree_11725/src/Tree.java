@@ -1,6 +1,6 @@
 /*
  * Link : https://www.acmicpc.net/problem/11725
- * Description : ·çÆ® ¾ø´Â Æ®¸®°¡ ÁÖ¾îÁø´Ù. ÀÌ¶§, Æ®¸®ÀÇ ·çÆ®¸¦ 1ÀÌ¶ó°í Á¤ÇßÀ» ¶§, °¢ ³ëµåÀÇ ºÎ¸ð¸¦ ±¸ÇÏ½Ã¿À.
+ * Description : ë£¨íŠ¸ ì—†ëŠ” íŠ¸ë¦¬ê°€ ì£¼ì–´ì§„ë‹¤. ì´ë•Œ, íŠ¸ë¦¬ì˜ ë£¨íŠ¸ë¥¼ 1ì´ë¼ê³  ì •í–ˆì„ ë•Œ, ê° ë…¸ë“œì˜ ë¶€ëª¨ë¥¼ êµ¬í•˜ì‹œì˜¤.
 */
 import java.io.BufferedReader;
 import java.io.IOException;

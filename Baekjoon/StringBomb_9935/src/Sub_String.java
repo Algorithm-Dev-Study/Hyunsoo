@@ -7,7 +7,7 @@ package StringBomb_9935;
 
 import java.io.*;
 
-public class Sub2 {
+public class Sub_String {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String strText = br.readLine();
