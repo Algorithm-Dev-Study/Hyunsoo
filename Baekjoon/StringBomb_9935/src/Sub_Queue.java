@@ -1,7 +1,7 @@
 /*
     - 메모리 초과
-    - Reason : 메모리 초과를 예상하여 Queue를 사용하였지만, Queue 너무 많이 사용함..
-    - Solution : use 'StringBuilder'
+    - Reason : Stack이나 StringBuilder는 index를 활용할 수 있지만 Queue는 index 활용이 불가능함.
+    - Solution : use 'StringBuilder' or 'Stack'
 */
 package StringBomb_9935;
 
