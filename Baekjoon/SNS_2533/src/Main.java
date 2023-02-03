@@ -58,7 +58,6 @@ public class Main {
         System.out.println(Math.min(dp[1].isEarlyAdopter[0], dp[1].isEarlyAdopter[1]));
     }
 
-
     public static class Node{
         ArrayList<Integer> linkedNode;
         int[] isEarlyAdopter = new int[2];
