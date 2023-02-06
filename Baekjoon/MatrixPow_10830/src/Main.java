@@ -2,7 +2,7 @@
 * Link : https://www.acmicpc.net/problem/10830
 * Question : 크기가 N*N인 행렬 A가 주어진다. 이때, A의 B제곱을 구하는 프로그램을 작성하시오. 수가 매우 커질 수 있으니, A^B의 각 원소를 1,000으로 나눈 나머지를 출력한다.
 * Solution : 분할과 정복에 행렬 곱을 적용.
-* Description : 중간에 쓰레기 값을 주의!!
+* Description : 쓰레기 값 주의해서 % 사용해줘야함!!
 */
 import java.io.BufferedReader;
 import java.io.IOException;
